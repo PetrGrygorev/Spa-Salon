@@ -1,0 +1,17 @@
+.section {
+    color: rgb(23, 194, 94);
+}
+
+h1 {
+    color: white;
+}
+
+.input {
+    background-color: antiquewhite;
+    width: 220px;
+    height: 30px;
+}
+
+body {
+    background-image: url("../img/black-texture-pictures.jpg");
+}

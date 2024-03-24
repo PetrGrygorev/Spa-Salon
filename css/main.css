@@ -1,0 +1,19 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    /* Теперь пропорции не нарушаются
+    https: //developer.mozilla.org/ru/docs/Web/CSS/object-fit */
+}
+
+.menu-contacts {
+    color: rgb(22, 146, 22);
+}
+
+.user-login {
+    color: goldenrod;
+}
+
+.special-discount {
+    color: blueviolet;
+}
